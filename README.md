@@ -1,5 +1,5 @@
 <img align="right" alt="Alqui-pic" height="150"  src="https://user-images.githubusercontent.com/30248962/172719190-c4503d4f-9a40-4e60-8b39-0beb5d3ac84b.png">
- Olá! Eu sou Alquimara Alves 👋
+<h1> Olá! Eu sou Alquimara Alves 👋</h1>
  
 ##
 - 🌱 Atualmente estou estudando front-end e desenvolvimento de jogos
@@ -35,7 +35,7 @@
   ##
   
   <div> 
-   <a href="https://www.linkedin.com/in/maria-alquimara-braz-alves-62b7671" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/alquimara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:alquimara.a.braz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
