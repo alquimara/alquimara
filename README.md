@@ -40,10 +40,3 @@
   </div>
   
   ![Snake animation](https://github.com/alquimara/alquimara/blob/output/github-contribution-grid-snake.svg)
-
- 
-
-
-
- 
-
